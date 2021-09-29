@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mubark Hussain 
-- 👀 Interested in Embedded Software development
-- 🌱Currently doing Msc Microelectronics and Microsystems...
+- 👀 Interested in Embedded System Design and Development
+- 🌱M.Sc Microelectronics and Microsystems
 
 
 <!---
